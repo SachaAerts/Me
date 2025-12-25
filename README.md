@@ -1,4 +1,4 @@
-# 📄 CV — Sacha Aerts
+# CV — Sacha Aerts
 
 Bienvenue dans ce dépôt !  
 Vous y trouverez mes deux CV : une version **française** et une version **anglaise**.  
@@ -6,7 +6,7 @@ Ces documents reflètent mon parcours en informatique, mes expériences de déve
 
 ---
 
-## 🇫🇷 Version Française
+## Version Française
 
 Ce dépôt contient mon **CV en français**, dans lequel je me présente en tant que **développeur junior** et étudiant en informatique orientée développement.  
 Vous y trouverez notamment :
@@ -24,7 +24,7 @@ Le fichier est disponible dans le dépôt sous :
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 This repository also includes my **English CV**, providing an overview of my background as a **junior developer** and computer science student.  
 It contains:
@@ -42,7 +42,7 @@ The file is available in the repository as:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Vous pouvez me contacter via :  
 - **Email :** sa.aerts@student.helmo.be  
