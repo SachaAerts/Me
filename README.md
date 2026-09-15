@@ -45,7 +45,7 @@ The file is available in the repository as:
 ## Contact
 
 Vous pouvez me contacter via :  
-- **Email :** sa.aerts@student.helmo.be  
+- **Email :** sacha50cl@hotmail.com  
 - **Téléphone :** (+32) 478 08 28 26  
 - **LinkedIn :** www.linkedin.com/in/sacha-aerts
 
